@@ -10,7 +10,7 @@ jobs:
       - run:
           name: This will pass
           command: |
-            echo "This job is supposed to pass."
+            echo "This job is supposed to pass....."
             exit 0
 
   # A job that will fail
